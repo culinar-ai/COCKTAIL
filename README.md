@@ -1,5 +1,5 @@
-# COCKTAIL
-Project COCKTAIL takes advantage of the fact that ratios are the basis for most cocktails.
+# COCKTAILS
+Project COCKTAILS takes advantage of the fact that ratios are the basis for most cocktails.
 FiveThirtyEight used k-means to [cluster margarita recipes](https://fivethirtyeight.com/features/we-got-drunk-on-margaritas-for-science/) in 2017, which I thought was absolutely brilliant.
 
 I believe that similar methods can be used to cluster other popular cocktail types,
